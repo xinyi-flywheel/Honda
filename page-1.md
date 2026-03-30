@@ -10,7 +10,7 @@
 * **Comparative Analysis**：Conduct multi-dimensional comparisons to support business requirements
 * **User Manual**：Access product features and usage instructions
 
-<figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FAE8GmA7pq1OzJ9v6UsIX%2Fimage.png?alt=media&#x26;token=e3b42e90-bfdb-4f41-b5d0-d89a8eeb707c" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -18,48 +18,49 @@
 
 #### Use Cases
 
-Provides a quick overview of each brand’s performance and discussion trends, enabling users to understand brand awareness and public opinion.
+Provides a quick overview of each brand’s performance and discussion trends, offering insight into brand awareness and public sentiment.
 
 #### Function Description
 
 **Time Range Filtering**
 
-*   Allows users to freely select a date range for data analysis.
+* Supports selecting the date range for analysis.
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FmlFRZtgSNGSJdFcK8pf1%2Fimage.png?alt=media&#x26;token=8d874b1a-66af-4d7d-ac8b-48d15ce3147f" alt=""><figcaption></figcaption></figure>
-*   Allows users to set a comparison time range for period-on-period, year-on-year, and custom analyses.
+<figure><img src=".gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FRsRoSl4neVuz3NZ6yyB5%2Fimage.png?alt=media&#x26;token=7e9e14f2-5823-4fb9-8181-04d178dd34ab" alt=""><figcaption></figcaption></figure>
+* Supports setting a comparison period for period-over-period, year-over-year, or custom time range analysis.
 
-**Positive Ranking / Negative Ranking**
+<figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
-Supports switching between Positive and Negative Rankings, enabling users to view brand performance under different emotional trends.
+**Positive Ranking/Negative Ranking**
 
-<figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FRx7mgpG3ujn1vPy8SsWq%2Fimage.png?alt=media&#x26;token=561e28c2-802a-4acc-a394-629b3a036234" alt=""><figcaption></figcaption></figure>
+Supports switching between **Positive** and **Negative** Rankings, enabling users to view brand performance under different sentiment trends.
+
+<figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 **Brand Switching**
 
-Click the brand icon to switch to the selected brand and view related data in Hot Topics, Trending Topics, and Topic Ranking.
+Supports clicking the brand icon to switch to the selected brand and view related data in **Hot Topics**, **Trending Topics**, and **Topic Ranking**.
 
-<figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FlMirszEX6kUuNkIQIzVE%2Fimage.png?alt=media&#x26;token=c9121dbe-7120-4363-869f-331816ce10f6" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 **Hot Topics**
 
-Displays currently hot topics, with support for ranking by positive and negative volume.
+Displays the most discussed topics, supports sorting by **positive** and **negative** volume.
 
-<figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FvWpa9UCzUASHVyOPXIdF%2Fimage.png?alt=media&#x26;token=85ccc7a8-3b75-49bf-8782-3e33bd5bfbae" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 **Trending Topics**
 
-Displays currently trending topics, with support for ranking by positive and negative growth rates.
+Displays topics with fast-growing discussion volumes recently, supports sorting by **positive** and **negative** growth rates.
 
-<figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2F1uF0DfDB3jxBLDDY5RQI%2Fimage.png?alt=media&#x26;token=06d26f52-246b-43b1-85f2-8586d8312bd8" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 **Topic Ranking**
 
-Displays the top topics in different subject areas, with support for ranking by positive volume, positive ratio, negative volume, and negative ratio.
+Displays top topics in each sub-domain, supports sorting by **positive volume**, **positive ratio**, **negative volume**, and **negative ratio**.
 
-<figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FrEWOb8YLkH3S97qRZor8%2Fimage.png?alt=media&#x26;token=e4e27c60-7d9c-4ae9-b7b0-d4da00a3c33a" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

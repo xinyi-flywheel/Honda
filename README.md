@@ -1,20 +1,6 @@
 ---
 description: CHINA CUSTOMER VOICE 是一款用于洞察品牌声量、用户情绪与舆情趋势的数据分析产品，支持从 品牌、话题、车系 等多个维度进行分析与对比。
 noRobotsIndex: true
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # CHINA CUSTOMER VOICE. 用户手册
