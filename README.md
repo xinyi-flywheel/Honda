@@ -309,19 +309,19 @@ noRobotsIndex: true
 
 用于选择不同的话题领域进行分析，仅支持单选。
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 能源类型筛选器
 
 支持按能源类型筛选数据，支持多选、全选及搜索功能。
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 平台筛选器
 
 支持选择不同平台来源的数据，支持多选、全选及搜索功能。
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **日期筛选器**
 

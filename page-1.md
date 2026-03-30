@@ -318,31 +318,31 @@ Side-by-side comparison of selected brands or series on the same topic, providin
 
 Click to select a sorting method, supporting **positive volume**, **negative volume**, **positive ratio**, **negative ratio**, and **total volume**.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Topic Area Filter**
 
 Click to select a topic area for comparison; only single selection is supported.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Energy Type Filter**
 
 Click to filter data by energy type, supporting multiple selection, select all, and search.&#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Platform Filter**
 
 Click to filter data by platform, supporting multiple selection, select all, and search.&#x20;
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Time Range Filter**
 
 * Click to select the analysis period to view data performance.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click to select a comparison method, supporting **period-on-period**, **year-on-year**, or **custom time range** analysis.
 
@@ -361,15 +361,15 @@ Click to switch the comparison dimension between **Brand** and **Series**, allow
 *   Click ![](<.gitbook/assets/image (7).png>) to select topics to compare, supporting multiple selection, select all, and search.
 
     <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FE87aBgpyFilhMkDGi7NA%2Fimage.png?alt=media&#x26;token=4860318e-b398-4dc8-b61e-bd4706e3bd0d" alt=""><figcaption></figcaption></figure>
-*   Click![](https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2Fz6Wq3V12WFsOKXCq5gry%2Fimage.png?alt=media\&token=d4514b01-0484-4ecc-8bf1-f8fc0bd59b17) to drill down to a lower level, and click![](https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FPqlNKdYNjjUmcYsrM2EF%2Fimage.png?alt=media\&token=c05d3393-fb1f-4461-a7d8-a07a9c7d29dc) to return to the previous level and view topic performance at different levels.
+* Click ![](.gitbook/assets/image.png) to drill down to a lower level, and click ![](<.gitbook/assets/image (1).png>) to return to the previous level, viewing topic performance at different levels.
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FJAvIcPXFvGliP2NZf6Uq%2F20260130205610-convert.gif?alt=media&#x26;token=46c0aeea-7be9-4ebd-b078-ab2ae7677821" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/20260330154233-convert.gif" alt=""><figcaption></figcaption></figure>
 
 **Topic Trends**
 
-After selecting a topic, click![](https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FmEftuZbRc30KqT3mrTd6%2Fimage.png?alt=media\&token=34f4144e-39aa-4777-ac10-9d32e5aff51e) to expand and view the changes in ranking topic for each brand over the past year, helping analyze long-term performance differences among brands for the same topic.
+After selecting a topic, click ![](<.gitbook/assets/image (2).png>) to expand and view changes in topic rankings for each brand over the past year, providing insight into long-term performance differences among brands for the same topic.
 
-<figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FrnQhntlQD257VFeO7yVp%2Fimage.png?alt=media&#x26;token=2ffb346f-6efd-4fc7-9a5c-decedeadce3a" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -379,72 +379,72 @@ After selecting a topic, click![](https://364225301-files.gitbook.io/~/files/v0/
 
 **Statistical Metrics**
 
-* Volume：The total number of mentions for a topic, including all sentences identified as positive, negative, or neutral.
-* Negative Volume: The total number of sentences identified as negative in sentiment.
-* Positive Volume: The total number of sentences identified as positive in sentiment.
+* **Volume**：Total number of mentions for a topic, including all sentences identified as positive, negative, or neutral.
+* **Negative Volume**: Total number of sentences identified as negative in sentiment.
+* **Positive Volume**: Total number of sentences identified as positive in sentiment.
 
 **Proportion Metrics**
 
-* Negative Ratio
+* **Negative Ratio**
 
 $$
-Negative Ratio = \frac{Negative Volume}{Total Volume}
+Negative Ratio = \frac{Negative Volume}{Volume}
 $$
 
-* Positive Ratio
+* **Positive Ratio**
 
 $$
-Positive Ratio = \frac{Positive Volume}{Total Volume}
+Positive Ratio = \frac{Positive Volume}{Volume}
 $$
 
 **Growth Metrics**
 
-*   Growth Rate
+*   **Growth Rate**
 
     $$
     Growth Rate = \frac{Current Period Volume}{Comparison Period Volume} - 1
     $$
-*   Negative Growth Rate
+*   **Negative Growth Rate**
 
     $$
     Negative Growth Rate = \frac{Current Period Negative Volume}{Comparison Period Negative Volume} - 1
     $$
-*   Positive Growth Rate
+*   **Positive Growth Rate**
 
     $$
     Positive Growth Rate = \frac{Current Period Positive Volume}{Comparison Period Positive Volume} - 1
     $$
-*   Negative Ratio Growth
+*   **Negative Ratio Growth**
 
     $$
     Negative Ratio Growth = Current Period Negative Ratio - Comparison Period Negative Ratio
     $$
-*   Positive Ratio Growth
+*   **Positive Ratio Growth**
 
     $$
     Positive Ratio Growth = Current Period Positive Ratio - Comparison Period Positive Ratio
     $$
 
-#### 数据对比逻辑
+#### Data Comparison Logic
 
 **Period-on-Period**
 
-The comparison period is the time period right before the analysis period, with the same length.
+The comparison period is the time immediately preceding the analysis period, with the same duration.
 
-> Sample
+> Sample:
 >
 > * Analysis Time Range: 10 Nov 2024 – 20 Nov 2024
 > * Comparison Time Range: 30 Oct 2024 – 9 Nov 2024
 
 **Year-on-Year**
 
-The comparison period is the same time range as the analysis period in the previous year.
+The comparison period corresponds to the same time range as the analysis period in the previous year.
 
-> Sample
+> Sample:
 >
 > * Analysis Time Range: 10 Nov 2024 – 20 Nov 2024
 > * Comparison Time Range: 10 Nov 2024 – 20 Nov 2024
 
 **Custom Time Range**
 
-The comparison period can be selected by the user to support flexible and personalized data comparison.
+The comparison period can be selected by the user to support flexible and personalized data comparisons.
