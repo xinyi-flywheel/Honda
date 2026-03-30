@@ -29,10 +29,10 @@ noRobotsIndex: true
 
 *   支持自由选择分析数据的日期范围。
 
-    <figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 *   支持设置对比时段，用于进行环比、同比、自定义对比分析。
 
-    <figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **好评 / 差评排行榜切换**
 
@@ -102,10 +102,10 @@ noRobotsIndex: true
 
 *   支持自由选择分析时段，灵活查看不同时间范围内的数据表现。
 
-    <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 *   支持多种数据对比方式，可选择环比、同比或自定义时段进行分析。
 
-    <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 功能说明
 
@@ -125,14 +125,14 @@ noRobotsIndex: true
 
 *   展示品牌下各车系的表现排行，支持按**好评量、好评率、负评量、负评率**进行排序。
 
-    <figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 *   点击![](<.gitbook/assets/image (48).png>)可查看该车系在过去一年的详细趋势表现。
 
-    <figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 * 点击![](<.gitbook/assets/image (51).png>)支持下载车系排行榜相关数据。
 *   点击任一车系后，右侧原始评论模块将自动切换至该车系相关内容。
 
-    <figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **话题领域榜**
 
@@ -219,10 +219,10 @@ noRobotsIndex: true
 
 *   支持自由选择分析时段，灵活查看不同时间范围内的数据表现。
 
-    <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 *   支持多种数据对比方式，可选择环比、同比或自定义时段进行分析。
 
-    <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 功能说明
 
@@ -303,34 +303,34 @@ noRobotsIndex: true
 
 支持按好评量、负评量、好评率、负评率以及声量进行单项排序。
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 #### 话题领域筛选器
 
 用于选择不同的话题领域进行分析，仅支持单选。
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 能源类型筛选器
 
 支持按能源类型筛选数据，支持多选、全选及搜索功能。
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 平台筛选器
 
 支持选择不同平台来源的数据，支持多选、全选及搜索功能。
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **日期筛选器**
 
 *   支持自由选择分析时段，灵活查看不同时间范围内的数据表现。
 
-    <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 *   支持多种数据对比方式，可选择环比、同比或自定义时段进行分析。
 
-    <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 功能说明
 
@@ -338,22 +338,22 @@ noRobotsIndex: true
 
 提供品牌与车系两种对比维度，支持在不同维度间灵活切换，用于从不同层级分析话题表现。
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **话题配置**
 
-*   点击![](<.gitbook/assets/image (12).png>)支持自定义选择参与对比的话题，支持多选、全选及搜索功能。
+*   点击![](<.gitbook/assets/image (12) (1).png>)支持自定义选择参与对比的话题，支持多选、全选及搜索功能。
 
-    <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
-*   点击![](<.gitbook/assets/image (16).png>)可进行层级下钻分析，点击![](<.gitbook/assets/image (17).png>)支持返回上一层级，查看不同层级的话题表现。
+    <figure><img src=".gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+*   点击![](<.gitbook/assets/image (16) (1).png>)可进行层级下钻分析，点击![](<.gitbook/assets/image (17) (1).png>)支持返回上一层级，查看不同层级的话题表现。
 
     <figure><img src=".gitbook/assets/20260130205610-convert.gif" alt=""><figcaption></figcaption></figure>
 
 #### 话题趋势
 
-任选话题后，点击![](<.gitbook/assets/image (15).png>)展开即可查看各品牌在该话题下近一年的排序指标变化趋势，用于分析不同品牌在同一话题下的长期表现变化。
+任选话题后，点击![](<.gitbook/assets/image (15) (1).png>)展开即可查看各品牌在该话题下近一年的排序指标变化趋势，用于分析不同品牌在同一话题下的长期表现变化。
 
-<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

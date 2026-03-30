@@ -1,4 +1,4 @@
-# Page 1
+# CHINA CUSTOMER VOICE. User Manual
 
 ## CHINA CUSTOMER VOICE. User Manual
 
@@ -24,23 +24,23 @@ Provides a quick overview of each brand’s performance and discussion trends, o
 
 **Time Range Filtering**
 
-* Supports selecting the date range for analysis.
+* Click to select the date range for analysis.
 
 <figure><img src=".gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
-* Supports setting a comparison period for period-over-period, year-over-year, or custom time range analysis.
+* Click to set a comparison period for period-over-period, year-over-year, or custom time range analysis.
 
 <figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 **Positive Ranking/Negative Ranking**
 
-Supports switching between **Positive** and **Negative** Rankings, enabling users to view brand performance under different sentiment trends.
+Click to switch between **Positive** and **Negative** Rankings, enabling users to view brand performance under different sentiment trends.
 
 <figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 **Brand Switching**
 
-Supports clicking the brand icon to switch to the selected brand and view related data in **Hot Topics**, **Trending Topics**, and **Topic Ranking**.
+Click the brand icon to switch to the selected brand and view related data in **Hot Topics**, **Trending Topics**, and **Topic Ranking**.
 
 <figure><img src=".gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
@@ -68,104 +68,112 @@ Displays top topics in each sub-domain, supports sorting by **positive volume**,
 
 #### Use Cases
 
-Provides an in-depth analysis of a brand’s overall perception among consumers, helping identify key strengths, highlights, and areas for improvement and optimization.
+In-depth analysis of overall brand performance among consumers, helping identify key strengths, notable features, and areas for improvement.
 
 #### Filter Introduction
 
 **Brand Filter**
 
-Allows users to select one or more brands for analysis, with support for multiple selection, select all, or search.
+Click to select one or more brands for analysis, supporting multiple selection, select all, or search.
 
-<figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FDykS7wZO5AbaTwCoSTtF%2Fimage.png?alt=media&#x26;token=951cc514-bd00-4f49-914e-ff7567fae177" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Energy Type Filter**
 
-Allows users to select energy types for analysis, with support for multiple selection, select all, or search.
+Click to filter data by energy type, supporting multiple selection, select all, or search.
 
-<figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FSTytuxGNhNR0sHMWf5yY%2Fimage.png?alt=media&#x26;token=e4d97da7-607b-4eaf-84dd-e1d18fbc5126" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Series Filter**
 
-Allows users to select specific series for analysis, with support for multiple selection, select all, or search.
+Click to select specific series for analysis, supporting multiple selection, select all, or search.
 
-<figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FfWxaCQV9tVmucvuVK0IM%2Fimage.png?alt=media&#x26;token=aa8f423d-b0ef-4faf-87b7-a057dcaf858c" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Platform Filter**
 
-Allows users to select platform for analysis, with support for multiple selection, select all, or search.
+Click to filter data by platform, supporting multiple selection, select all, or search.
 
-<figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2F9yt9q1dD0Nv6S1j9wRv1%2Fimage.png?alt=media&#x26;token=5dbe26cb-e78f-4b08-9c89-ed611bfdabd6" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Time Range Filter**
 
-*   Allows users to freely select the analysis period and view data performance.
+* Click to select the analysis period to view data performance.
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2Fa3AyOkiCud2dmv3bfQOD%2Fimage.png?alt=media&#x26;token=b4f27103-dce3-42a4-b1d0-0364b0d51272" alt=""><figcaption></figcaption></figure>
-*   Supports multiple comparison methods, allowing users to perform period-on-period, year-on-year, or custom period analysis.
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FBrN6c9HtV6XuMu4fmNJl%2Fimage.png?alt=media&#x26;token=2880b356-f3d9-48d6-aff4-98a2c737a5fc" alt=""><figcaption></figcaption></figure>
+* Click to select a comparison method, supporting **period-on-period**, **year-on-year**, or **custom time range** analysis.
+
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 #### Function Description
 
 **Volume Overview**
 
-Displays **the total volume, positive volume, positive rate, negative volume, negative rate, and the growth rates of each metric** for the selected brands in the current analysis period, helping users quickly understand overall brand performance.
+Displays **the total volume**, **positive volume**, **positive ratio**, **negative volume**, **negative ratio**, and **the growth rates of each metric** for the selected brands and series in the current analysis period, providing a clear overview of overall brand performance.
 
-<figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FRViwRMNhM5slJuUtAeRW%2Fimage.png?alt=media&#x26;token=507a9853-b024-4ab0-9cd2-b947f76ff98d" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **Volume Trend**
 
-Displays the trend of **positive and negative volumes** for the selected brands and series over the past year, helping identify long-term changes in brand and series reputation.
+Displays the trend of **positive** and **negative volumes** for the selected brands and series over the past year, providing insight into long-term changes in brand and series reputation.
 
-<figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2F3eIlkk7ZO0bB2mGsSDff%2Fimage.png?alt=media&#x26;token=b688b656-4e4f-40c6-89ec-4fbbf5a8a3f7" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **Series Ranking**
 
-*   Displays the performance ranking of all series under a brand, with support for ranking by **positive volume, positive ratio, negative volume, and negative ratio**.
+* Displays the performance ranking of up to 50 series under selected brands, supporting sorting by **positive volume**, **positive ratio**, **negative volume**, and **negative ratio**.
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2F4579v884hLzycQWNHD20%2Fimage.png?alt=media&#x26;token=5fbbec20-3150-469d-bc19-224d3dec423e" alt=""><figcaption></figcaption></figure>
-*   Cilcking![](https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FpUkbjAM9mCEmWfLw1lE0%2Fimage.png?alt=media\&token=f585fdf5-acdb-4c45-94dc-2ab88d6baef2) to view the detailed trend performance of the series over the past year.
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FN4vXQJudcfpzwRud2Z7j%2Fimage.png?alt=media&#x26;token=ef2eec4e-d237-4ce3-9b38-2aede289b0be" alt=""><figcaption></figcaption></figure>
-* Cilcking![](https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FmxKOm1ctGFnewmVTqvG7%2Fimage.png?alt=media\&token=e50e1dfe-11d2-400e-a00b-f1cad9316705) to download data related to Series Ranking.
-*   Click on any series will automatically update the Customer Comments module on the right to display content related to that series.
+* Click ![](<.gitbook/assets/image (10).png>) to view the detailed trend performance of the series over the past year.
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FmgXzw5auADoONgHRwEEL%2Fimage.png?alt=media&#x26;token=d935914b-f3b3-4ca2-b1da-1a974f43647e" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/20260330142508.gif" alt=""><figcaption></figcaption></figure>
+
+* Cilck <img src=".gitbook/assets/image (11).png" alt="" data-size="line"> to download data related to Series Ranking.
+* Click on any series to update the **Customer Comments** module on the right, displaying comments related to that series.
+
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 **Topic Ranking**
 
-*   Displays the top topics in different subject areas, with support for multi-dimensional sorting by positive volume, positive rate, negative volume, and negative rate.
+* Displays the top topics in each sub-domain, supporting sorting by **positive volume**, **positive ratio**, **negative volume**, and **negative ratio**.
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FkTr7BoJ2Yc4Jo2oHGX18%2Fimage.png?alt=media&#x26;token=6637fe81-b850-4a9d-97b2-21e5427442bb" alt=""><figcaption></figcaption></figure>
-* Cilcking![](https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FmxKOm1ctGFnewmVTqvG7%2Fimage.png?alt=media\&token=e50e1dfe-11d2-400e-a00b-f1cad9316705) to download data related to Topic Ranking.
-*   Click on any topic will automatically update the Customer Comments module on the right to display content related to that topic.
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FuXhs42oRkHHm8fjJ8Bo1%2Fimage.png?alt=media&#x26;token=992df10b-941f-4608-8923-e2c901dfc2af" alt=""><figcaption></figcaption></figure>
+* Click ![](<.gitbook/assets/image (14).png>) to download data related to Topic Ranking.
+* Click on any topic to update the **Customer Comments** module on the right, displaying comments related to that topic.
+
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 **Word Cloud**
 
-* Displays popular discussion topics for a brand or series, with word size automatically adjusted based on **total volume, positive volume, or negative volume**.
-*   Displays all data by default, with the option to switch to view only **positive** or **negative** content.
+* Displays popular discussion topics for selected brands and series, with word size automatically adjusted based on **total volume**, **positive volume**, or **negative volume**.
+* Displays all data by default, with the option to filter and view only **positive** or **negative** content.
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FIzkGhBxKBaT13BrB1id4%2Fimage.png?alt=media&#x26;token=8e40eaab-b79f-4a1b-b67a-c51b539dda8d" alt=""><figcaption></figcaption></figure>
-* Click![](https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FmxKOm1ctGFnewmVTqvG7%2Fimage.png?alt=media\&token=e50e1dfe-11d2-400e-a00b-f1cad9316705) to download data related to Word Cloud.
-*   Click on any word will automatically update the Customer Comments module on the right to display content related to that word.
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2Fr98lKEr8vRxk7KnjGyRi%2Fimage.png?alt=media&#x26;token=5a1edd71-da1a-4604-a3eb-a1d742ca906c" alt=""><figcaption></figcaption></figure>
+* Click ![](<.gitbook/assets/image (17).png>) to download data related to Word Cloud.
+* Click on any word to update the **Customer Comments** module on the right, displaying comments related to that word.
+
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 **Customer Comments**
 
-* Displays original posts and comments, helping capture authentic user feedback. Supports viewing up to 2,000 comments.
-*   Supports searching for relevant feedback and discussion topics using keywords.
+* Displays original posts and comments to capture authentic user feedback, supporting viewing of up to **2,000** comments.
+* Click to search for relevant feedback and discussion topics using keywords.
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FCFyQimcphidp0fQVOFFr%2Fimage.png?alt=media&#x26;token=4dc86b1b-e4bf-48a8-91f1-856e539f104e" alt=""><figcaption></figcaption></figure>
-*   Supports filtering by specific topics in the topic filter.
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FQSClo2peRbyQehiK055c%2Fimage.png?alt=media&#x26;token=01149ed7-adf4-4422-a558-7fe286acf260" alt=""><figcaption></figcaption></figure>
-*   Hover over the text to view the full content, and click![](https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2F1tzUOw8l4Prt5MesfZXL%2Fimage.png?alt=media\&token=4b0a4d1e-782c-48c0-98cb-2502422fd8a9) to navigate to the original post.
+* Click to filter customer comments by specific topics using the topic filter.
 
-    <figure><img src="https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FlbpUwsd6kRxUQGfCY6zE%2Fimage.png?alt=media&#x26;token=440c114d-48ea-43a1-a226-0b262baeba82" alt=""><figcaption></figcaption></figure>
-* Click ![](https://364225301-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F42HCCPQbcrTZjXnRqHfb%2Fuploads%2FmxKOm1ctGFnewmVTqvG7%2Fimage.png?alt=media\&token=e50e1dfe-11d2-400e-a00b-f1cad9316705) to download up to 50,000 Customer Comments.
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+* Hover over the text to view the full content, and click ![](<.gitbook/assets/image (22).png>) to navigate to the original post.
+
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+* Click ![](<.gitbook/assets/image (91).png>) to download up to 50,000 Customer Comments.
 
 ***
 
