@@ -13,7 +13,7 @@ noRobotsIndex: true
 * **对比分析**：按业务需求进行多维度横向对比分析
 * **用户手册**：查看产品功能说明与使用指引
 
-<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -138,7 +138,7 @@ noRobotsIndex: true
 
 *   展示不同话题领域下的头部话题表现，支持按**好评量、好评率、负评量、负评率**多维度进行排序。
 
-    <figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 * 点击![](<.gitbook/assets/image (51).png>)支持下载话题领域榜相关数据。
 *   点击任一话题后，右侧原始评论模块将自动切换至该话题相关内容。
 
@@ -303,7 +303,7 @@ noRobotsIndex: true
 
 支持按好评量、负评量、好评率、负评率以及声量进行单项排序。
 
-<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 #### 话题领域筛选器
 
